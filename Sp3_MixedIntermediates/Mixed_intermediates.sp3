@@ -8,8 +8,8 @@
     <data name="horizontalPreviewAxis" value="weight"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="/Users/erik/Develop/svn.letterror.com/apps/superpolator3/trunk/Sp3_Examples/Sp3_BiasedGlyphs/instances"/>
-    <data name="previewtext" value="EF"/>
+    <data name="generateFontsAtFolder" value="/Users/erik/Develop/git.letterror.com/superpolator3/Sp3_MixedIntermediates/instances"/>
+    <data name="previewtext" value="EFA"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
@@ -23,7 +23,6 @@
             <dimension name="weight" xvalue="0.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
-        <maskedglyph name="F"/>
     </master>
     <master familyname="Workflow" filename="Light.ufo" sortorder="1" stylename="Light">
         <location>
