@@ -1,7 +1,6 @@
 superpolator3
 =============
 
-
 These are example files for Superpolator3.
 
-Superpolator.com
+Find out more about multidimensional interpolation for type at Superpolator.com
